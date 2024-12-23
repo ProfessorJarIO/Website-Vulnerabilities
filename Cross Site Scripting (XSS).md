@@ -92,9 +92,13 @@ Source: A source function is any JS property or function that accepts user input
 Sink: A sink is a potentially dangerous JavaScript function that can caused undesirable effects if attacker controlled data is passed to it. Basically, if the function returns input back to the screen as output without security checks, it’s considered a sink. An example of this would be the “innerHTML” property used earlier as that changes the contents of the HTML page to whatever is given to it.
 
 > https://chryzsh.gitbooks.io/pentestbook/content/dom-based-xss.html
+> 
 > https://yewtu.be/watch?v=-9QN_kGPkEc
+> 
 > https://portswigger.net/web-security/cross-site-scripting/dom-based
+> 
 > https://github.com/Sivnerof/Sources-And-Sinks-Cheatsheet
+> 
 > https://medium.com/@fath3ad.22/understanding-dom-based-xss-sources-and-sinks-c17ae4bc7455
 
 ## Exploit code or POC
