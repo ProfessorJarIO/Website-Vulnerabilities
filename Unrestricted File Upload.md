@@ -220,5 +220,4 @@ mv lo.jpg lo.php.jpg
 
 **Resources**
 - https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload
-- 
 - https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
