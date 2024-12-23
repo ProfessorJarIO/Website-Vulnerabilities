@@ -2,6 +2,10 @@
 > July 1st, 2023
 ----------------------------------------------------------------
 
+## Author's Note
+
+All of this is strictly for educational purposes only. I do not condone illegal activity. Please use this guide solely to educate yourself on how to protect your website. 
+
 ## Introduction
 
 By default any Javascript code will run in your browser. Some websites don't do a good job at sanitizing their user input which can lead to devastating impacts. 
