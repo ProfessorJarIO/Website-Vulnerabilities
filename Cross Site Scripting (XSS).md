@@ -167,6 +167,9 @@ I just realized that Quill editor sanitizes bad input by default, but despite th
 **Extra Resources**
 
 https://xss-payloads.paracyberbellum.io/payloads.html
+
 https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/07-Input_Validation_Testing/01-Testing_for_Reflected_Cross_Site_Scripting.html
+
 https://owasp.org/www-community/attacks/xss/
+
 https://github.com/ezyang/htmlpurifier
